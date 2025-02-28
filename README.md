@@ -1,3 +1,3 @@
 gostrings extracts strings from Go binaries.
 
-Usage: gostrings <binary>
+Usage: gostrings some_binary_file
